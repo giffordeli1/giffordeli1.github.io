@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <url>
     <loc>https://giffordeli1.github.io/</loc>
     <lastmod>2026-11-23</lastmod>
+    <image:image>
+      <image:loc>https://giffordeli1.github.io/og.jpg</image:loc>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://giffordeli1.github.io/hero.jpg</video:thumbnail_loc>
+      <video:title>Eli Gifford (2028) – Highlights, Ida B. Wells HS (Portland, OR)</video:title>
+      <video:description>Kickoffs, an onside kick, extra points, a scoop and run on a bad snap, preseason work at linebacker and a kickoff coverage tackle.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/M8sH_aV6Lxw</video:player_loc>
+      <video:duration>91</video:duration>
+      <video:publication_date>2026-11-23</video:publication_date>
+    </video:video>
   </url>
 </urlset>
